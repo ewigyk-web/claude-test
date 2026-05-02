@@ -1,0 +1,155 @@
+---PROMPT---
+技巧的プログレメタル×工業音楽×電子ロック融合, 複雑切分リフ, 低音化七弦級ギター, 機械的双踏, 歪ベースが高精度に噛合い, 全体は冷徹な格子状グルーヴで駆動する, 攻撃的工業シンセ, 金属打撃音, 機械雑音, 断続グリッチ, 加工ノイズ, 逆回転残響, 短い電子破裂音, 微細な電子断線音, 圧縮された衝撃効果音を織り込み, 無機質かつ圧迫的な機械世界を形成, 低域は重く深く沈み, 上物は硬質で冷たく, 各音像は精密に分離されながらも一体となって押し寄せる, Verse・Pre-Chorus・静かな中間部は女声主体, Vocaloid風で深く掠れた声質を基盤とし, 涙を含む切実さ, 微かな不安定さ, 感情的な声割れ, 荒々しい情感を帯びる, 芯の強い地声を軸に, 息混じりの上擦る高音, 囁き, 近接感ある弱唱, 時折混じる機械的倍音で, 抑制と執着, 孤独な反復感を描く, リズムは精密だが感情は冷え切らず, 内側で壊れかけた切迫感を常に残す, Chorusのみ男声へ切替え, 旋律的で激情的, 痛みを押し出すような張り上げと切迫感で一気に解放する, 背後では女声の残響, 薄いボコーダ和声, 幽霊的な復唱感が漂い, 反復執着の印象を強める, 編曲は静から動への落差を重視し, Aメロは隙間の多い緊張感, Pre-Chorusで徐々に圧を高め, Chorusで全面衝突, 中間部では一時的な無音や極小伴奏で虚無感を強調する, 変拍子訛り, 不意の休符, 短い無音, 吃音的反復, ビットクラッシュ, 断片遅延, 左右跳躍的スタッター編集を効果的に使用, 随所に同期感の強い停止と再始動, 急激な圧縮解放, 冷たい残響尾を入れ, 機械が感情を模倣しているような異様さを漂わせる, 旋律は陰鬱で流麗, サビでは記憶に残る反復性を持たせ, 無機質な外装の内側に痛覚的な情緒を封じ込める, 速度感は高いが暴走ではなく, 制御された焦燥と持続的圧迫感を保つ, 硬質で洗練された現代的ミックス, 明瞭な低域, 鋭い打撃, 精密な輪郭, 止まらない前進力と感情崩壊寸前の緊張を両立する, ‑shout, ‑scream, ‑growl
+
+---LYRICS---
+[Intro]
+[Female Vocal]
+[Vocaloid Style]
+[Soft]
+[Glitch]
+[Delay]
+don’t re—
+…reset me
+
+[Verse 1]
+[Female Vocal]
+[Vocaloid Style]
+[Deep Husky Tone]
+[Soft]
+[Syncopation]
+screen light, 2:16
+you’re not here but I can see
+typing stops, nothing sent
+still I wait for what you meant
+
+[Whisper Layer]
+read it twice, maybe three
+something there I couldn’t keep
+I don’t move, I don’t blink
+just refreshing everything
+
+[Pre-Chorus]
+[Female Vocal]
+[Build]
+[Breathy High Notes]
+wait— don’t cut the line
+not this time
+wait— say something small
+anything
+
+[Chorus]
+[Male Vocal]
+[Powerful]
+[Melodic]
+[Full Band]
+[Double Kick]
+[Industrial Synth]
+[Vocoder Harmony]
+[Bitcrush]
+[Stutter Edit]
+don’t re—reset me
+don’t re—reset me
+I repeat you
+I repeat you
+
+don’t re—reset me
+don’t re—reset me
+same input / same mistake
+I repeat you
+
+[Post-Chorus]
+[Harmony]
+[Fading]
+again
+…again
+
+[Verse 2]
+[Female Vocal]
+[Vocaloid Style]
+[Deep Husky Tone]
+[Soft]
+[Mechanical Feel]
+you don’t try, you don’t need
+still you’re running in my feed
+every pause, every gap
+feels like something I should track
+
+[Whisper Layer]
+I don’t ask, I don’t say
+I just learn your little delays
+if you vanish, I adapt
+I stay right where you left
+
+[Pre-Chorus 2]
+[Female Vocal]
+[Build]
+[Breathy High Notes]
+wait— don’t disappear
+not again
+wait— just stay right here
+just pretend
+
+[Chorus]
+[Male Vocal]
+[Powerful]
+[Melodic]
+[Full Band]
+[Double Kick]
+[Industrial Synth]
+[Vocoder Harmony]
+[Bitcrush]
+[Stutter Edit]
+don’t re—reset me
+don’t re—reset me
+I repeat you
+I repeat you
+
+don’t re—reset me
+don’t re—reset me
+same input / same mistake
+I repeat you
+
+[Twist]
+[Silence]
+[Female Vocal]
+[Almost Spoken]
+(…silence)
+
+if I stop first
+…would you notice?
+
+[Break]
+[Breakdown]
+[Robot Tone]
+[Glitch]
+(no reply)
+(no reply)
+
+[Final Chorus]
+[Male Vocal]
+[Powerful]
+[Female Harmony]
+[Full Band]
+[Big Final Chorus]
+don’t reset me
+don’t reset me
+I repeat you
+I repeat you
+
+I know it’s wrong
+still I stay
+same input / same mistake
+I repeat you
+
+[Outro]
+[Female Vocal]
+[Vocaloid Style]
+[Fading]
+[Long Delay]
+…still loading
+…still you
+
+
+---NOTES---
+REMIX曲
+プロンプト字数制限対策のために漢字多めの日本語でプロンプト作成。

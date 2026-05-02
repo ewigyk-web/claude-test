@@ -1,0 +1,95 @@
+---PROMPT---
+TITLE : Glass City
+THEME : 夜の都市・孤独・切なさ／癖ある女
+VOCAL : Half-Sung Half-Spoken, Smooth Emotional, Mellow
+BPM   : 150 / KEY : Minor
+Female Vocal, Half-Sung Half-Spoken, City Pop, Cyberpunk Synth, Mellow Bass Groove, Shimmering Emotional Pads, Bright Lead Synth, Catchy Melodic Hook, Subtle Glitch Accent, Layered Chorus, Smooth Emotional Delivery, Nostalgic, Lonely Night City, Cinematic Intro, Dramatic Build, Spoken Outro, Live Energy, Minor Key, 150 BPM
+Intro    : Whispered / Spoken, Cinematic, Almost Talking To Herself
+Verse    : Mellow, Conversational, Emotionally Understated
+Chorus   : Soaring, Released, Layered Harmonies
+Bridge   : Stripped Back, Intimate, Slightly Trembling
+Outro    : Spoken Closure, Glitch Fade, Leaving Something Unsaid
+Intro  → 深夜, 一人, 街の光だけ見てる
+Verse  → 誰かとつながってるふりをしてた自分
+Chorus → それでも, この夜は綺麗だと思う
+Bridge → 孤独を責めるより, 受け入れていく
+Outro  → 朝が来る前の, 静かな独り言
+
+---LYRICS---
+[Intro — Whispered / Spoken]
+Funny how the city looks better…
+when you’re not really part of it.
+
+[Verse 1]
+Neon spills across the rain-soaked street
+I ordered coffee black, no receipt
+A hundred faces melting into screens
+I memorized the exits, checked the scenes
+
+Sent a message just to watch it read
+Didn’t want a reply, just wanted to bleed
+A little — not too much, just enough to know
+Something’s still alive underneath the glow
+
+[Pre-Chorus]
+Don’t mistake my silence for being lost
+I calculated every single cost
+I chose this window, chose this hour, chose this view
+I just didn’t choose to think of you
+
+[Chorus]
+This glass city shines like it knows my name
+I don’t trust it but I love it just the same
+I’m not waiting — I’m just watching from outside
+The loneliest and sharpest I’ve felt alive
+
+[Verse 2]
+Downloaded empathy, uninstalled the rest
+Deleted people who didn’t pass the test
+I’m not cold — I’m just precise about my warmth
+I give it out in winter, not in storms
+
+They say I’m hard to read, I say thank you
+A open book gets torn in two
+I keep my pages close, my cover clean
+The most interesting parts stay in between
+
+[Pre-Chorus]
+Don’t confuse my stillness for an empty room
+There’s entire universes in this gloom
+
+[Chorus]
+This glass city shines like it knows my name
+I don’t trust it but I love it just the same
+I’m not waiting — I’m just watching from outside
+The loneliest and sharpest I’ve felt alive
+
+[Bridge — Stripped Back, Wry]
+I could call someone
+I have the numbers saved
+I just like the silence
+More than I’ll admit I crave
+
+[Final Chorus]
+This glass city shines like it knows my name
+I don’t trust it but I love it just the same
+I’m not waiting — I’m just watching from outside
+The loneliest and sharpest I’ve felt alive
+And honestly? I prefer it.
+
+[Outro — Spoken, Glitch Fade]
+I could’ve gone home earlier.
+I didn’t want to.
+Don’t read into it.
+
+# ================================================================
+STYLE PROMPT (Suno v5.5)
+
+# Female Vocal, Half-Sung Half-Spoken, City Pop, Cyberpunk Synth,
+Mellow Bass Groove, Shimmering Emotional Pads, Bright Lead Synth,
+Catchy Melodic Hook, Subtle Glitch Accent, Layered Chorus,
+Smooth Emotional Delivery, Nostalgic, Lonely Night City,
+Cinematic Intro, Dramatic Build, Spoken Outro,
+Live Energy, Minor Key, 150 BPM
+
+---NOTES---

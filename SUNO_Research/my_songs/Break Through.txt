@@ -1,0 +1,98 @@
+---PROMPT---
+Rock with jazz influences, Energetic and dramatic modern rock mixed with rap-rock elements, Prominent acoustic piano riffs, bright saxophone accents, and tight rhythm section, Groovy drums with syncopation, punchy bass, and distorted guitars that enter in the chorus, mix of rhythmic rap phrasing, melodic singing, and emotional high notes, Atmosphere: cinematic tension + jazzy sophistication + explosive rock energy, ”
+
+Structure (must follow)
+Structure:
+Intro: Piano riff + saxophone +  light drums, Verse 1: Rap-style delivery, jazz chords on piano, subtle sax fills, Pre-Chorus: Build-up with rising piano arpeggio and drums tightening, Chorus: Big melodic rock chorus, wide guitars, strong vocal hook, sax harmonies, Post-Chorus: Short sax-led instrumental break, Verse 2:Female husky vocal, Faster rap phrasing, more energetic groove, Pre-Chorus 2: Emotional build, Final Chorus: Layered vocals, stronger sax section, double chorus
+Outro: Guitar riff, sax
+
+---LYRICS---
+[intro: Saxophone]
+
+[Spoken][Intense, Passionate]
+好きなようにやれでもハンパ野郎はいらねぇ!!
+
+[Verse 1]
+賭けるものは分かってる　not fearin' mistakes
+欲しいのは great escape　the key to the gates
+何が必要だ？　This is the make or break
+限界ぶち壊す　limit break　この目で見てぇ景色へ
+
+It's a clash of wills, gashes and drills
+見えないふりなんて　しねぇぜ signs and symbols
+It's about to blow　見たことねぇレベルの
+the greatest hope　深くて強ぇ願いを
+
+[Sprechgesang][Emotional]
+一番深いどんぞこからだって　上がれなきゃ意味ねぇじゃんか
+そこに沈んだままじゃ　声も決意も掴めねぇじゃんか
+
+[Pre-Chorus]
+We gonna be okay　なんとかなるって
+Never lose faith　Keep runnin' the race
+
+[Chorus]
+Break through 
+ぶち破れ
+貫いてやれ
+限界なんかに意味はねぇ
+
+[Post-Chorus]
+Just keep workin', just keep runnin'
+Just keep fightin', just keep runnin'
+Just keep thinkin', just keep runnin'
+
+[Spoken][Emotional]
+そうさ　これがおれの　いや俺達のStyle
+ゴール目指すんならさ　もっとギアあげてこうぜ
+
+[Verse 2]
+マイクに立つたび魂ごと震わせるスピリット
+前にも言ったろ限界なんて軽く切り裂くリミット
+生まれつきギフテッド　もう戻らねぇし逃さねぇや
+止まる気なんてカイム　まだスタートラインから離れてねぇや
+
+全てが絶望でも希望はどこだと探すスポット
+Visionぼやけてもここからどこへ進むと問うフロウ
+恐怖ともがき合い　涙が落ちても　燃えるままBlow
+不安に立ち向かい　成果でなくても　成長つづけるGrow
+
+舵を切った瞬間に見えたクリアなVision
+チャンスは一度だけ確実に撃ち抜くMission
+踏み抜けフルスロットルで行けハイテンション
+いま走り出せムボウかつノーブレーキのアクション
+
+[interlude]
+
+[Pre-Chorus]
+We gonna be okay　なんとかなるって
+Never lose faith　Keep runnin' the race
+
+[Chorus]
+Break through
+ぶち破れ
+貫いてやれ
+限界なんかに意味はねぇ
+
+[Post-Chorus]
+Just keep workin, just keep runnin'
+Just keep fightin', just keep runnin'
+Just keep thinkin', just keep runnin'
+限界なんかに意味はねぇ（Break through!!）
+
+[Sprechgesang][Emotional]
+一番深いどんぞこから　見上げてた
+テッペンまで一直線で　のぼっていくんだ
+
+[Spoken][Emotional][Passionate]
+限界だなんて勝手に決めんじゃねぇよそんなもんおれらで破るんだ
+見てろよ　地獄から天国までイッキに形勢逆転
+Break through!!
+
+[Big Finish]
+
+
+
+---NOTES---
+歌詞もメタタグもプロンプトも全部手打ちした曲。
+UVERworld+熱血路線

@@ -1,0 +1,74 @@
+---PROMPT---
+Style:
+dark minimal piano, experimental alt rock, ambient, emotional female vocal, fragile, cinematic, japanese art pop, slow tempo, melancholic, haunting
+
+⸻
+
+Prompt:
+Minimal felt piano intro with long reverb and lots of silence, Very sparse arrangement, almost empty, Whispered female vocal, intimate and fragile, breathy, close to mic, Gradually introduce subtle ambient textures and faint glitches, No strong drums, only very minimal heartbeat-like pulse, Build tension slowly without releasing it, In chorus, slightly expand with soft piano chords and deep sub bass, emotional but restrained, Vocal shifts from whisper to aching, controlled cry, Atmosphere: lonely, unreal, prayer-like, unresolved, Do not become pop, Avoid catchy hooks, Keep it abstract and cinematic, End fades into silence without resolution, vocal
+• Female vocal, fragile and intimate
+• Whisper to emotional belting transition
+• Slight pitch instability allowed
+• Breath noise clearly audible
+• Almost like praying, not singing, ‑300Hz-500Hz mud, ‑boxiness, ‑phase cancellation, ‑monophonic sub, ‑frequency masking, ‑vocal gasps, ‑humming, ‑artifacts, ‑hiss, ‑noise
+
+---LYRICS---
+白い壁には時計が無い
+私を呼ぶ声がする
+記録用紙に滲むインク
+私の名前が化けている…
+
+透明な管を流れる赤
+「大丈夫」と繰り返す
+優しい命令が
+思考回路溶かしてゆく…
+
+瞬きの回数
+数えられて
+呼吸の速度
+書き写されて…
+ずっと私を見ている…
+
+実験は人格操作　洗脳催眠
+壊れはじめているのは
+世界だろうか　私だろうか
+試験薬は嗤う
+愛していると言いなさい
+
+ガラス越しの影揺れて
+誰かが居たはずなのに
+「君は特別」と言われるたびに
+何処か何か削れてしまう
+
+感情の名前
+忘れさせて
+過去の輪郭
+暈されて
+ずっと私を撫でている…
+
+実験は人格操作　洗脳催眠
+夢を見ることさえ夢
+私だろうか　違うだろうか
+試験薬は囁く
+これが欲しいと言えばいい
+
+ここから逃げたい
+その思いさえ…
+誰かの思惑通りなら
+私はもう…何を信じればいい？
+
+鏡に映る目が
+左右で違って見えた
+それだけが
+まだ…私の証明
+
+実験は人格操作　洗脳催眠
+私の名前は成功例
+愛すだろうか　殺すだろうか
+注射器が誘う
+お花畑で会いましょう
+
+白い壁には時計が無い…
+青い花瓶に花も無い…
+
+---NOTES---

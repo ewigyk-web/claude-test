@@ -1,0 +1,93 @@
+---PROMPT---
+Anthemic Melodic Hardcore × Cyberpunk Alt-Rock, BPM 178, Major key with minor pre-chorus tension, Raw human-spirit band, Tight aggressive distortion guitars (Explorer + Les Paul), gritty live amp tone, Crystalline clean leads cutting through distortion wall, Growling overdriven bass (Freedom Custom Guitar Research style), Punchy tight kick, cracking snare (TAMA + Zildjian), 16th-note hats driving forward, Atmospheric pads with cyberpunk undertone, subtle glitch accents, no flashy synth leads, Gang vocals in chorus for singalong energy, Clear edgy male vocal — Verse: half-spoken breathy whisper, Chorus: anthemic belt with melodic hook, Bridge: stripped back intimate, Strong quiet-to-loud dynamic contrast, Wall-of-sound mix with crystalline top, No clean polish — raw, noisy, aggressive, anthemic, uplifting, Intense yet refreshing — breaking through digital noise toward open sky
+
+---LYRICS---
+[Style: Anthemic Melodic Hardcore × Cyberpunk Alt-Rock, BPM 178.]
+
+[Intro — whisper / atmospheric]
+…can you hear me?
+through the static…
+
+[Verse 1 — half-spoken / breathy]
+fake signs, fake hearts
+loud lies, loud charts
+止まらない情報　lots, lots, lots
+塞がれた呼吸　cut, cut, cut
+
+every screen says the same
+every voice takes my name
+誰かが書いた　rewriting me
+俺の輪郭　don't fit, don't fit
+
+[Pre-Chorus 1 — build]
+だけどさ　this signal won't die
+どれだけ noise を浴びても
+俺の周波数だけは
+誰にも書き換えさせない
+
+[Chorus 1 — anthemic belt + gang vocals]
+Clear Static!!!
+雑音　切り裂け　風になれ
+Clear Static!!!
+透き通ったまま　走り抜けろ
+Loud and clear, scream it from the lungs!
+心臓ごと　解き放て
+Give me, give me, give me my static!!!
+
+[Verse 2 — heavier / full band]
+broken codes, broken keys
+打ち込んだ Hello — no replies
+画面の向こう　we can't connect
+息を吸う場所を　探してる
+
+throw the rules, toss the frame
+全部 outdated, 全部 plain
+this body knows, this voice knows
+胸の真ん中　鳴ってる音
+
+[Pre-Chorus 2 — more tension]
+だからさ　this signal won't fade
+どれだけ data を消しても
+俺の周波数だけは
+ノイズの底で生きてる
+
+[Chorus 2]
+Clear Static!!!
+雑音　切り裂け　空になれ
+Clear Static!!!
+歪んだまま　でも　真っ直ぐ
+Loud and clear, scream it from the lungs!
+言葉ごと　撃ち抜けろ
+Give me, give me, give me my static!!!
+
+[Bridge — stripped back → drop out]
+一度 silenceに 落ちて
+息を　取り戻す
+
+(whisper) …can you hear me?
+(whisper) yeah, I hear me.
+
+(SHOUT)
+Static — alive!
+Static — mine!
+
+[Final Chorus — huge / full energy]
+Clear Static!!!
+雑音すら　燃やしてくれ
+Clear Static!!!
+透き通った刃で　走れ
+Loud and clear, scream it from the lungs!
+未来ごと　撃ち抜けろ
+Give me, give me, my own static!!!
+
+[Outro — fading whisper + spoken]
+through the static…
+…I still hear me.
+clear.
+
+---NOTES---
+ハイブリッド設計メモ:
+- TenJR要素: 機材名固定 (Explorer/Les Paul/Freedom/TAMA/Zildjian)、gang vocals、Give me reprise、日英コードスイッチでサビ強化
+- CK要素: 世界観 (signal/static/code/screen/frequency)、Verse=whisper / Chorus=belt のダイナミクス対比、Bridge dropout、シネマ台本型セクション指示
+- 音色要素: 語尾韻 (hearts/charts, name/same, keys/replies, frame/plain)、自己肯定×反逆テーマ、擬音的反復 (lots/cut/static)
+- 「激しく爽やか」: BPM 178でMelodic Hardcoreの疾走感、Major Keyベース + pre-chorusでminorに沈ませる対比、distortionの上にcrystalline clean leadを乗せて爽やかさを出す

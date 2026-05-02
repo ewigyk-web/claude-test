@@ -1,0 +1,70 @@
+---PROMPT---
+[QUALITY: MAX]
+[REALISM: MAX]
+
+genre: "Drum and Bass, Electronic Rock, Modern, 2020s Sound"
+language: "Japanese"
+instrumentation: "Heavy slap bass, Piano-driven, Synth bass, Electric bass, Electronic drums, Breakbeats, No guitars"
+production: "High energy, Punchy, Modern production, Tight mix, Loud, Clean, Polished, Deep bass, Heavy low-end"
+mood: "Intense, Powerful, Chaotic, Emotional tension, Inner conflict"
+bpm: 170
+key: "Minor"
+
+---LYRICS---
+冷えたきったコーヒーが　
+今日の終わりを告げる
+引っかかった言葉の破片が
+抜けきらないまま
+喉の奥に残ってる
+
+踏み込む一歩と　引く一歩
+踏み違えたら　奈落の底
+行きは良い良い　帰りは怖い
+引き返すなら今のうち
+
+Something’s off
+爪先立ちでは　届かない
+Something’s off
+善意と偽善が　ダンスする
+右も左も紙一重
+I don't know where I stand
+足元で　僕の影が笑ってる
+
+誰かの都合で埋めた予定
+追いつかない返信　
+目指す高さと見上げる地点
+辿り着いても
+通過点に早変わり
+
+伸ばした左手　引く右手
+毒を食らわば　皿までか？
+触らぬ神に　祟りなし
+盾と矛がせめぎ合う
+
+Something’s off
+両腕だけでは　届かない
+Something’s off
+今日も歯車は　噛み合わない
+エゴと願いは紙一重
+I know where I’m stuck
+背後から　影が僕を覗き込む
+
+僕が掴めるのは
+せいぜい　半径二メートル
+手を伸ばして
+届くか　届かないか
+欲しいものほど遠くにある
+噛み合わない歯車を軋ませて
+壊れるまで回せ
+
+Something’s off
+爪先立ちでは　届かない
+Something’s off
+両腕だけでも　届かない
+今日も歯車は　噛み合わない
+I know where I stand now
+影がこっちだと指を差す
+
+
+---NOTES---
+
